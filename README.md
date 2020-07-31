@@ -39,5 +39,5 @@ Here are some ideas to get you started:
  </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/liliia-havryshchyshena-7a1075154/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/liliia-havryshchyshena-7a1075154/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/liliia-havryshchyshena-7a1075154/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/liliia-havryshchyshena-7a1075154/" height="20" width="20" /></a>
 </p>
