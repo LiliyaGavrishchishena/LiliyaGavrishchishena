@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=LiliyaGavrishchishena" alt="LiliyaGavrishchishena" />
 
 
-  <img src="https://img.icons8.com/color/48/000000/react.png" alt="react" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="20" height="20"/>
    <img src="https://img.icons8.com/color/48/000000/js.png" alt="js" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>
