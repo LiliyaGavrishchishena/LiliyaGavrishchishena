@@ -29,11 +29,3 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/css.png" alt="css" width="20" height="20"/>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiliyaGavrishchishena&show_icons=true" alt="LiliyaGavrishchishena" />
-  <img  align="right" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif" alt="LiliyaGavrishchishena" width="230">
- </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/liliia-havryshchyshena-7a1075154/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/liliia-havryshchyshena-7a1075154/" height="20" width="20" /></a>
-</p>
